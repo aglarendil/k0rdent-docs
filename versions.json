@@ -2,12 +2,17 @@
   {
     "version": "next",
     "title": "next",
-    "aliases": ["head"]
+    "aliases": [
+      "head"
+    ]
   },
   {
     "version": "v0.2.0",
     "title": "v0.2.0",
-    "aliases": ["latest", "stable"]
+    "aliases": [
+      "latest",
+      "stable"
+    ]
   },
   {
     "version": "v0.1.0",
@@ -15,4 +20,3 @@
     "aliases": []
   }
 ]
-
