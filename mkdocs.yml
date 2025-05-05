@@ -180,7 +180,7 @@ nav:
       - k0rdent Credentials Management: 
         - Overview: admin/access/credentials/index.md
         - The Credentials Process: admin/access/credentials/credentials-process.md
-        - Credential Propogation: admin/access/credentials/credentials-propogation.md
+        - Credential propagation: admin/access/credentials/credentials-propagation.md
       - k0rdent Role Based Access Control (RBAC): 
         - Overview: admin/access/rbac/index.md
         - What Roles Do: admin/access/rbac/what-roles-do.md
